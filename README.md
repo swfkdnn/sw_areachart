@@ -1,1 +1,2 @@
 # null
+# sw_areachart
